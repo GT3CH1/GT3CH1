@@ -1,16 +1,24 @@
-### Hi there 👋
+# Gavin C. Pease
 
-<!--
-**GT3CH1/GT3CH1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a goon who loves to write code.  I am halfway done with my CS degree at the University of Utah
 
-Here are some ideas to get you started:
+### Projects I am currently working on
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### Arduino Automation 
+My home-baked solution to control IOT devices via Web / Google Home
+  * aa_models - The crate that contains all the models for this project
+  * aa_daemon - The project that allows stuff to actually be done
+
+#### SQLSprinkler 
+A rust-based sprinkler system controller
+
+#### Languages I like ⌨
+* Java
+* C#
+* Rust
+* PHP
+
+#### How to contact me ✉
+Just submit a PR in one of my repositories. Easy as that.
+
+I'm always looking for help in Arduino Automation / SQLSprinkler.  
