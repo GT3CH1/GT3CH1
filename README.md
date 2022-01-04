@@ -44,8 +44,8 @@ I'm a goon who loves to write code.  I am halfway done with my CS degree at the 
 * Computer Networking
 
 ## School Projects
-[Baba Ghanoush Sprite Editor](https://github.com/GT3CH1/sprite-editor)
-
+* [Baba Ghanoush Sprite Editor (C++/QT)](https://github.com/GT3CH1/sprite-editor)
+* [Fish Care Tutorial (C++/QT)](https://github.com/GT3CH1/edu-app)
 ## Projects I am currently working on
 ### Arduino Automation
 My home-baked solution to control IOT devices via Web / Google Home. Basically a poor man version of MQTT.
