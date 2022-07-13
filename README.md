@@ -42,16 +42,20 @@ I'm a goon who loves to write code.  I am halfway done with my CS degree at the 
 * [Photography](https://portfolio.peasenet.com)
 * Home Automation
 * Computer Networking
+* Writing about interesting things on my [blog](https://blog.peasenet.com)
 
 ## School Projects
 * [Baba Ghanoush Sprite Editor (C++/QT)](https://github.com/GT3CH1/sprite-editor)
 * [Fish Care Tutorial (C++/QT)](https://github.com/GT3CH1/edu-app)
 ## Projects I am currently working on
 ### [minecraft-mod](https://github.com/GT3CH1/minecraft-mod)
-A fabric minecraft mod that explores changing varius aspects of the game Minecraft.
+A Fabric minecraft mod that explores changing varius aspects of the game Minecraft.
+
+### [GavUI](https://github.com/GT3CH1/gavui)
+A Fabric UI library that allows a developer to create simple and effective UI elements.
 
 ### [SQLSprinkler](https://github.com/GT3CH1/sqlsprinkler)
-A rust-based sprinkler system controller
+A Rust based sprinkler system controller
 
 ### Android Open Source Project
 * I have contributed to the Dirty Unicorns project before it shut down
