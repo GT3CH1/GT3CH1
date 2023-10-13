@@ -1,6 +1,6 @@
 # Gavin C. Pease
 
-I'm a goon who loves to write code.  I am halfway done with my CS degree at the University of Utah.
+I'm a goon who loves to write code.  I am a computer science senior at the University of Utah.
 
 ## Languages I like
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
