@@ -63,6 +63,23 @@ A Rust based sprinkler system controller
   * [santos10-common](https://github.com/GT3CH1/android_device_samsung_santos10-common)
   * [santos10wifi](https://github.com/GT3CH1/android_device_samsung_santos10wifi)
 
+## Cool Side Projects
+Here is a list of some fun side projects I have worked on in the past.
+### [woodenpuzzle-cpp](https://github.com/GT3CH1/woodenpuzzle-cpp) 
+A brute force algorithm to find solutions to a 10x6 wooden puzzle with tetris-like pieces.
+
+### [BlogSite](https://github.com/GT3CH1/BlogSite)
+A blogging application written in ASP.NET featuring a sleek and modern ui.
+
+### [N-Queens-Visualizer](https://github.com/GT3CH1/N-Queens-Visualizer)
+A java swing application that visualizes solutions to the N-Queens problem
+
+### [rust-firebase](https://github.com/GT3CH1/rust-firebase)
+A fork of a wrapper for Googles Firebase, updated to use modern HTTP libraries.
+
+### [DestinyConverter](https://github.com/GT3CH1/DestinyResourceConverter)
+A C# application that converts a CSV file into an XML document that can be used to import items into Follett's Destiny.
+
 ## How to contact me ✉
 Just submit a PR in one of my repositories. Easy as that.
 
