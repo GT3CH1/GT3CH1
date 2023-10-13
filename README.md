@@ -27,11 +27,6 @@ I'm a goon who loves to write code.  I am halfway done with my CS degree at the 
 ![Mac OS](https://img.shields.io/badge/mac%20os-999?style=for-the-badge&logo=macos&logoColor=F0F0F0)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
-## Frameworks and Libraries I work with
-![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
-![Qt](https://img.shields.io/badge/Qt-%23217346.svg?style=for-the-badge&logo=Qt&logoColor=white)
-![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)
-
 ## IDE's/Editors I use
 ![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-darkcyan.svg?style=for-the-badge&logo=intellij-idea)
@@ -48,13 +43,13 @@ I'm a goon who loves to write code.  I am halfway done with my CS degree at the 
 * [Baba Ghanoush Sprite Editor (C++/QT)](https://github.com/GT3CH1/sprite-editor)
 * [Fish Care Tutorial (C++/QT)](https://github.com/GT3CH1/edu-app)
 ## Projects I am currently working on
-### [minecraft-mod](https://github.com/GT3CH1/minecraft-mod)
+### [Gavin's Mod](https://github.com/gavinsmod/gavinsextensiblemod)
 A Fabric minecraft mod that explores changing varius aspects of the game Minecraft.
 
 ### [GavUI](https://github.com/GT3CH1/gavui)
 A Fabric UI library that allows a developer to create simple and effective UI elements.
 
-### [SQLSprinkler](https://github.com/GT3CH1/sqlsprinkler)
+### [SQLSprinkler](https://github.com/GT3CH1/sqlsprinkler-cli)
 A Rust based sprinkler system controller
 
 ### Android Open Source Project
