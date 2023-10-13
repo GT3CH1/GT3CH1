@@ -54,7 +54,7 @@ A Rust based sprinkler system controller
 
 ### Android Open Source Project
 * I have contributed to the Dirty Unicorns project before it shut down
-* I am currently building ROMs for the original Google Pixel XL.
+* I have forked and maintained updates from LineageOS to build a ROM for the original Google Pixel XL.
   * [Frameworks Base](https://github.com/GT3CH1/android_frameworks_base)
   * [Lineage SDK](https://github.com/GT3CH1/android_lineage-sdk)
   * [LineageParts](https://github.com/GT3CH1/android_packages_apps_LineageParts)
