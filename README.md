@@ -48,18 +48,13 @@ I'm a goofball who loves to write code.  I am a computer science senior at the U
 ## School Projects
 * [Baba Ghanoush Sprite Editor (C++/QT)](https://github.com/GT3CH1/sprite-editor)
 * [Fish Care Tutorial (C++/QT)](https://github.com/GT3CH1/edu-app)
-## Projects I am currently working on
-### [Gavin's Mod](https://github.com/gavinsmod/gavinsextensiblemod)
-A Fabric minecraft mod that explores changing varius aspects of the game Minecraft.
-
-### [GavUI](https://github.com/GT3CH1/gavui)
-A Fabric UI library that allows a developer to create simple and effective UI elements.
-
 ### [Watr](https://capstone-cs.eng.utah.edu/Watr/Watr)
 A sprinkler system controller written in C# for my senior capstone project at the University of Utah.
 I was the team lead of a small group for this project, directing and managing the development of this application.
 
-
+## Projects I am currently working on
+### [Gavin's Mod](https://github.com/gavinsmod/gavinsextensiblemod)
+A Fabric minecraft mod that explores changing varius aspects of the game Minecraft.
 
 ### Android Open Source Project
 * I have contributed to the Dirty Unicorns project before it shut down
@@ -90,6 +85,4 @@ A fork of a wrapper for Googles Firebase, updated to use modern HTTP libraries.
 A C# application that converts a CSV file into an XML document that can be used to import items into Follett's Destiny.
 
 ## How to contact me ✉
-Just submit a PR in one of my repositories. Easy as that.
-
-I'm always looking for help in Arduino Automation / SQLSprinkler.  
+Just submit a PR in one of my repositories or email me at gcpease <at> peasenet <dot> com.\
