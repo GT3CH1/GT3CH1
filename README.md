@@ -1,6 +1,6 @@
 # Gavin C. Pease
 
-I'm a goon who loves to write code.  I am a computer science senior at the University of Utah.
+I'm a goofball who loves to write code.  I am a computer science senior at the University of Utah.
 
 ## Languages I like
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
@@ -49,8 +49,11 @@ A Fabric minecraft mod that explores changing varius aspects of the game Minecra
 ### [GavUI](https://github.com/GT3CH1/gavui)
 A Fabric UI library that allows a developer to create simple and effective UI elements.
 
-### [SQLSprinkler](https://github.com/GT3CH1/sqlsprinkler-cli)
-A Rust based sprinkler system controller
+### [Watr](https://capstone-cs.eng.utah.edu/Watr/Watr)
+A sprinkler system controller written in C# for my senior capstone project at the University of Utah.
+I was the team lead of a small group for this project, directing and managing the development of this application.
+
+
 
 ### Android Open Source Project
 * I have contributed to the Dirty Unicorns project before it shut down
